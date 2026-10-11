@@ -54,6 +54,13 @@ national teams: each nation's coach picks riders for the course, with more place
 ranking (Stats → Rankings → Nations). The world champion wears the rainbow jersey. Championships run on their own
 when you sim; your riders' titles show on Home, on rider pages and next to their names everywhere.
 
+**Sponsors and budget.** Your title sponsor pays most of the bills and sets two goals each season (a ranking, a
+number of wins, a win at home, a Grand Tour stage…), with a bonus for each one met. Happy sponsors renew for more;
+unhappy ones walk away when the deal ends. When a deal runs out, the off-season brings offers: pick a title sponsor
+(and its name for the team, like Lidl–Trek), an optional co-sponsor and a bike deal. Top bike brands pay less but
+give a tiny race-day edge; smaller brands pay more. Income minus running costs is your salary budget for contracts
+and signings. See **More → Sponsors & budget** or tap the payroll line on the Team screen.
+
 **Small race-day lifts.** Riders racing in their own country get a little lift, and so do riders with countrymen in
 the squad (shown in race week).
 
