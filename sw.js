@@ -1,10 +1,11 @@
 // Offline cache for Peloton Dynasty. The version is replaced at build time.
-const VERSION = '63ca2594c5';
+const VERSION = 'bb7efdbe26';
 const CACHE = 'peloton-' + VERSION;
 const FILES = ['./', './index.html', './app.js?v=' + VERSION, './app.css?v=' + VERSION, './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png', './favicon.png'];
 
 self.addEventListener('install', (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(FILES)).then(() => self.skipWaiting()));
+  // straight from the network (never a stale copy from the browser's HTTP cache)
+  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(FILES.map((f) => new Request(f, { cache: 'reload' })))).then(() => self.skipWaiting()));
 });
 self.addEventListener('activate', (e) => {
   e.waitUntil(
@@ -16,6 +17,8 @@ self.addEventListener('activate', (e) => {
 });
 self.addEventListener('fetch', (e) => {
   if (e.request.method !== 'GET') return;
+  // the version check always goes to the network
+  if (new URL(e.request.url).pathname.endsWith('/version.json')) return;
   e.respondWith(
     caches.match(e.request, { ignoreSearch: false }).then(
       (hit) =>
