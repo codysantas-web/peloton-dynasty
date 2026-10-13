@@ -1,5 +1,5 @@
 // Offline cache for Peloton Dynasty. The version is replaced at build time.
-const VERSION = '8116b17a60';
+const VERSION = '21e902d58a';
 const CACHE = 'peloton-' + VERSION;
 const FILES = ['./', './index.html', './app.js?v=' + VERSION, './app.css?v=' + VERSION, './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png', './favicon.png'];
 
@@ -19,6 +19,22 @@ self.addEventListener('fetch', (e) => {
   if (e.request.method !== 'GET') return;
   // the version check always goes to the network
   if (new URL(e.request.url).pathname.endsWith('/version.json')) return;
+  // music is big and rarely changes: its own cache, kept across app updates, filled the first time a track plays
+  if (new URL(e.request.url).pathname.includes('/music/')) {
+    e.respondWith(
+      caches.open('pd-music').then((c) =>
+        c.match(e.request).then(
+          (hit) =>
+            hit ||
+            fetch(e.request).then((res) => {
+              if (res.status === 200) c.put(e.request, res.clone());
+              return res;
+            }),
+        ),
+      ),
+    );
+    return;
+  }
   e.respondWith(
     caches.match(e.request, { ignoreSearch: false }).then(
       (hit) =>
