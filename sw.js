@@ -1,5 +1,5 @@
 // Offline cache for Peloton Dynasty. The version is replaced at build time.
-const VERSION = '0e80d2d7a1';
+const VERSION = 'e601cd2e76';
 const CACHE = 'peloton-' + VERSION;
 const FILES = ['./', './index.html', './app.js?v=' + VERSION, './app.css?v=' + VERSION, './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png', './favicon.png'];
 
