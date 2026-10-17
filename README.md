@@ -1,4 +1,4 @@
-# Peloton Dynasty
+# Gruppetto Director
 
 A text-first pro cycling team manager for iPhone. Phase 1 of the plan in DESIGN.md.
 
