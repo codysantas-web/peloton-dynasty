@@ -1,0 +1,786 @@
+{
+  "format": "peloton-dynasty-names",
+  "version": 1,
+  "label": "Real names 2026 (teams, brands, races)",
+  "teams": [
+    {
+      "id": "T01",
+      "name": "UAE Team Emirates XRG",
+      "abbr": "UAD"
+    },
+    {
+      "id": "T02",
+      "name": "Visma–Lease a Bike",
+      "abbr": "TVL"
+    },
+    {
+      "id": "T03",
+      "name": "Red Bull–BORA–hansgrohe",
+      "abbr": "RBH"
+    },
+    {
+      "id": "T04",
+      "name": "Soudal Quick-Step",
+      "abbr": "SOQ"
+    },
+    {
+      "id": "T05",
+      "name": "Lidl–Trek",
+      "abbr": "LTK"
+    },
+    {
+      "id": "T06",
+      "name": "Netcompany INEOS",
+      "abbr": "INE"
+    },
+    {
+      "id": "T07",
+      "name": "Alpecin–Premier Tech",
+      "abbr": "ADC"
+    },
+    {
+      "id": "T08",
+      "name": "EF Education–EasyPost",
+      "abbr": "EFE"
+    },
+    {
+      "id": "T09",
+      "name": "Decathlon CMA CGM",
+      "abbr": "DCT"
+    },
+    {
+      "id": "T10",
+      "name": "Groupama–FDJ United",
+      "abbr": "GFC"
+    },
+    {
+      "id": "T11",
+      "name": "Lotto–Intermarché",
+      "abbr": "LIN"
+    },
+    {
+      "id": "T12",
+      "name": "Movistar Team",
+      "abbr": "MOV"
+    },
+    {
+      "id": "T13",
+      "name": "Team Bahrain Victorious",
+      "abbr": "TBV"
+    },
+    {
+      "id": "T14",
+      "name": "Team Jayco–AlUla",
+      "abbr": "JAY"
+    },
+    {
+      "id": "T15",
+      "name": "XDS Astana Team",
+      "abbr": "XAT"
+    },
+    {
+      "id": "T16",
+      "name": "Team Picnic–PostNL",
+      "abbr": "TPP"
+    },
+    {
+      "id": "T17",
+      "name": "NSN Cycling Team",
+      "abbr": "NSN"
+    },
+    {
+      "id": "T18",
+      "name": "Uno-X Mobility",
+      "abbr": "UXM"
+    },
+    {
+      "id": "T19",
+      "name": "Tudor Pro Cycling Team",
+      "abbr": "TUD"
+    },
+    {
+      "id": "T20",
+      "name": "Q36.5 Pro Cycling Team",
+      "abbr": "Q36"
+    },
+    {
+      "id": "T21",
+      "name": "Cofidis",
+      "abbr": "COF"
+    },
+    {
+      "id": "T22",
+      "name": "Team TotalEnergies",
+      "abbr": "TEN"
+    },
+    {
+      "id": "T23",
+      "name": "Caja Rural–Seguros RGA",
+      "abbr": "CJR"
+    },
+    {
+      "id": "T24",
+      "name": "Burgos Burpellet BH",
+      "abbr": "BBH"
+    },
+    {
+      "id": "T25",
+      "name": "Euskaltel–Euskadi",
+      "abbr": "EUS"
+    },
+    {
+      "id": "T26",
+      "name": "Equipo Kern Pharma",
+      "abbr": "EKP"
+    },
+    {
+      "id": "T27",
+      "name": "Team Polti VisitMalta",
+      "abbr": "PTV"
+    },
+    {
+      "id": "T28",
+      "name": "VF Group–Bardiani CSF–Faizanè",
+      "abbr": "VBF"
+    },
+    {
+      "id": "T29",
+      "name": "Solution Tech–Vini Fantini",
+      "abbr": "STV"
+    },
+    {
+      "id": "T30",
+      "name": "Team Flanders–Baloise",
+      "abbr": "TFB"
+    },
+    {
+      "id": "T31",
+      "name": "Unibet Rose Rockets",
+      "abbr": "URR"
+    },
+    {
+      "id": "T32",
+      "name": "Modern Adventure Pro Cycling",
+      "abbr": "MAP"
+    },
+    {
+      "id": "T33",
+      "name": "JCL Team UKYO",
+      "abbr": "JCL"
+    },
+    {
+      "id": "T34",
+      "name": "Team Novo Nordisk",
+      "abbr": "TNN"
+    }
+  ],
+  "brands": [
+    {
+      "id": "B01",
+      "name": "Colnago"
+    },
+    {
+      "id": "B02",
+      "name": "Cervélo"
+    },
+    {
+      "id": "B03",
+      "name": "Specialized"
+    },
+    {
+      "id": "B04",
+      "name": "Trek"
+    },
+    {
+      "id": "B05",
+      "name": "Pinarello"
+    },
+    {
+      "id": "B06",
+      "name": "Canyon"
+    },
+    {
+      "id": "B07",
+      "name": "Cannondale"
+    },
+    {
+      "id": "B08",
+      "name": "Van Rysel"
+    },
+    {
+      "id": "B09",
+      "name": "Wilier"
+    },
+    {
+      "id": "B10",
+      "name": "Orbea"
+    },
+    {
+      "id": "B11",
+      "name": "Merida"
+    },
+    {
+      "id": "B12",
+      "name": "Giant"
+    },
+    {
+      "id": "B13",
+      "name": "XDS"
+    },
+    {
+      "id": "B14",
+      "name": "Lapierre"
+    },
+    {
+      "id": "B15",
+      "name": "Factor"
+    },
+    {
+      "id": "B16",
+      "name": "Dare"
+    },
+    {
+      "id": "B17",
+      "name": "BMC"
+    },
+    {
+      "id": "B18",
+      "name": "Scott"
+    },
+    {
+      "id": "B19",
+      "name": "Look"
+    },
+    {
+      "id": "B20",
+      "name": "Enve"
+    },
+    {
+      "id": "B21",
+      "name": "BH"
+    },
+    {
+      "id": "B22",
+      "name": "Ridley"
+    },
+    {
+      "id": "B23",
+      "name": "Bianchi"
+    },
+    {
+      "id": "B24",
+      "name": "Cube"
+    },
+    {
+      "id": "B25",
+      "name": "MMR"
+    },
+    {
+      "id": "B26",
+      "name": "Cipollini"
+    },
+    {
+      "id": "B27",
+      "name": "Guerciotti"
+    },
+    {
+      "id": "B28",
+      "name": "Argon 18"
+    },
+    {
+      "id": "G01",
+      "name": "Shimano"
+    },
+    {
+      "id": "G02",
+      "name": "SRAM"
+    },
+    {
+      "id": "G03",
+      "name": "Campagnolo"
+    }
+  ],
+  "races": [
+    {
+      "id": "tdu",
+      "name": "Santos Tour Down Under"
+    },
+    {
+      "id": "cvv",
+      "name": "Clàssica Comunitat Valenciana 1969"
+    },
+    {
+      "id": "calvia",
+      "name": "Trofeo Calvià"
+    },
+    {
+      "id": "cadel",
+      "name": "Cadel Evans Great Ocean Road Race"
+    },
+    {
+      "id": "marseillaise",
+      "name": "Grand Prix La Marseillaise"
+    },
+    {
+      "id": "besseges",
+      "name": "Étoile de Bessèges"
+    },
+    {
+      "id": "valenciana",
+      "name": "Volta a la Comunitat Valenciana"
+    },
+    {
+      "id": "almeria",
+      "name": "Clásica de Almería"
+    },
+    {
+      "id": "uaetour",
+      "name": "UAE Tour"
+    },
+    {
+      "id": "algarve",
+      "name": "Volta ao Algarve"
+    },
+    {
+      "id": "andalucia",
+      "name": "Vuelta a Andalucía Ruta del Sol"
+    },
+    {
+      "id": "ardeche",
+      "name": "Faun-Ardèche Classic"
+    },
+    {
+      "id": "omloop",
+      "name": "Omloop Nieuwsblad"
+    },
+    {
+      "id": "kbk",
+      "name": "Kuurne–Brussel–Kuurne"
+    },
+    {
+      "id": "samyn",
+      "name": "Le Samyn"
+    },
+    {
+      "id": "laigueglia",
+      "name": "Trofeo Laigueglia"
+    },
+    {
+      "id": "strade",
+      "name": "Strade Bianche"
+    },
+    {
+      "id": "parisnice",
+      "name": "Paris–Nice"
+    },
+    {
+      "id": "tirreno",
+      "name": "Tirreno–Adriatico"
+    },
+    {
+      "id": "milanotorino",
+      "name": "Milano–Torino"
+    },
+    {
+      "id": "nokere",
+      "name": "Nokere Koerse"
+    },
+    {
+      "id": "bredene",
+      "name": "Bredene Koksijde Classic"
+    },
+    {
+      "id": "msr",
+      "name": "Milano–Sanremo"
+    },
+    {
+      "id": "catalunya",
+      "name": "Volta Ciclista a Catalunya"
+    },
+    {
+      "id": "coppi",
+      "name": "Settimana Coppi e Bartali"
+    },
+    {
+      "id": "bdp",
+      "name": "Classic Brugge–De Panne"
+    },
+    {
+      "id": "e3",
+      "name": "E3 Saxo Classic"
+    },
+    {
+      "id": "gw",
+      "name": "In Flanders Fields – Gent–Wevelgem"
+    },
+    {
+      "id": "ddv",
+      "name": "Dwars door Vlaanderen"
+    },
+    {
+      "id": "indurain",
+      "name": "Gran Premio Miguel Induráin"
+    },
+    {
+      "id": "rvv",
+      "name": "Ronde van Vlaanderen"
+    },
+    {
+      "id": "itzulia",
+      "name": "Itzulia Basque Country"
+    },
+    {
+      "id": "loire",
+      "name": "Région Pays de la Loire Tour"
+    },
+    {
+      "id": "scheldeprijs",
+      "name": "Scheldeprijs"
+    },
+    {
+      "id": "pr",
+      "name": "Paris–Roubaix"
+    },
+    {
+      "id": "brabantse",
+      "name": "De Brabantse Pijl"
+    },
+    {
+      "id": "amstel",
+      "name": "Amstel Gold Race"
+    },
+    {
+      "id": "turkey",
+      "name": "Tour of Türkiye"
+    },
+    {
+      "id": "alps",
+      "name": "Tour of the Alps"
+    },
+    {
+      "id": "fleche",
+      "name": "La Flèche Wallonne"
+    },
+    {
+      "id": "lbl",
+      "name": "Liège–Bastogne–Liège"
+    },
+    {
+      "id": "romandie",
+      "name": "Tour de Romandie"
+    },
+    {
+      "id": "eschborn",
+      "name": "Eschborn–Frankfurt"
+    },
+    {
+      "id": "giro",
+      "name": "Giro d'Italia",
+      "short": "Giro"
+    },
+    {
+      "id": "hongrie",
+      "name": "Tour de Hongrie"
+    },
+    {
+      "id": "norway",
+      "name": "Tour of Norway"
+    },
+    {
+      "id": "mayenne",
+      "name": "Boucles de la Mayenne"
+    },
+    {
+      "id": "aura",
+      "name": "Tour Auvergne-Rhône-Alpes"
+    },
+    {
+      "id": "slovenia",
+      "name": "Tour of Slovenia"
+    },
+    {
+      "id": "belgium",
+      "name": "Baloise Belgium Tour"
+    },
+    {
+      "id": "suisse",
+      "name": "Tour de Suisse"
+    },
+    {
+      "id": "cph",
+      "name": "Copenhagen Sprint"
+    },
+    {
+      "id": "tour",
+      "name": "Tour de France",
+      "short": "Tour"
+    },
+    {
+      "id": "austria",
+      "name": "Tour of Austria"
+    },
+    {
+      "id": "wallonie",
+      "name": "Tour de Wallonie"
+    },
+    {
+      "id": "dss",
+      "name": "Clásica San Sebastián"
+    },
+    {
+      "id": "pologne",
+      "name": "Tour de Pologne"
+    },
+    {
+      "id": "burgos",
+      "name": "Vuelta a Burgos"
+    },
+    {
+      "id": "arctic",
+      "name": "Arctic Race of Norway"
+    },
+    {
+      "id": "denmark",
+      "name": "Tour of Denmark"
+    },
+    {
+      "id": "limousin",
+      "name": "Tour du Limousin"
+    },
+    {
+      "id": "renewi",
+      "name": "Renewi Tour"
+    },
+    {
+      "id": "deutschland",
+      "name": "Deutschland Tour"
+    },
+    {
+      "id": "vuelta",
+      "name": "La Vuelta Ciclista a España",
+      "short": "Vuelta"
+    },
+    {
+      "id": "hamburg",
+      "name": "Hamburg Cyclassics"
+    },
+    {
+      "id": "plouay",
+      "name": "Bretagne Classic"
+    },
+    {
+      "id": "britain",
+      "name": "Tour of Britain"
+    },
+    {
+      "id": "maryland",
+      "name": "Maryland Cycling Classic"
+    },
+    {
+      "id": "quebec",
+      "name": "Grand Prix Cycliste de Québec"
+    },
+    {
+      "id": "montreal",
+      "name": "Grand Prix Cycliste de Montréal"
+    },
+    {
+      "id": "luxembourg",
+      "name": "Tour of Luxembourg"
+    },
+    {
+      "id": "primus",
+      "name": "Primus Classic"
+    },
+    {
+      "id": "emilia",
+      "name": "Giro dell'Emilia"
+    },
+    {
+      "id": "bernocchi",
+      "name": "Coppa Bernocchi"
+    },
+    {
+      "id": "trevalli",
+      "name": "Tre Valli Varesine"
+    },
+    {
+      "id": "piemonte",
+      "name": "Gran Piemonte"
+    },
+    {
+      "id": "lombardia",
+      "name": "Il Lombardia"
+    },
+    {
+      "id": "paristours",
+      "name": "Paris–Tours"
+    },
+    {
+      "id": "binche",
+      "name": "Binche–Chimay–Binche"
+    },
+    {
+      "id": "guangxi",
+      "name": "Gree-Tour of Guangxi"
+    },
+    {
+      "id": "veneto",
+      "name": "Veneto Classic"
+    },
+    {
+      "id": "herald",
+      "name": "Herald Sun Tour"
+    },
+    {
+      "id": "colombia",
+      "name": "Tour Colombia"
+    },
+    {
+      "id": "med",
+      "name": "Tour Méditerranéen"
+    },
+    {
+      "id": "murcia",
+      "name": "Clásica de Murcia"
+    },
+    {
+      "id": "hautvar",
+      "name": "Tour du Haut Var"
+    },
+    {
+      "id": "criterium",
+      "name": "Critérium International"
+    },
+    {
+      "id": "camembert",
+      "name": "Paris–Camembert"
+    },
+    {
+      "id": "georgia",
+      "name": "Tour de Georgia"
+    },
+    {
+      "id": "yorkshire",
+      "name": "Tour de Yorkshire"
+    },
+    {
+      "id": "asturias",
+      "name": "Vuelta a Asturias"
+    },
+    {
+      "id": "peace",
+      "name": "Peace Race"
+    },
+    {
+      "id": "california",
+      "name": "Tour of California"
+    },
+    {
+      "id": "midilibre",
+      "name": "Grand Prix du Midi Libre"
+    },
+    {
+      "id": "philly",
+      "name": "Philadelphia Cycling Classic"
+    },
+    {
+      "id": "zlm",
+      "name": "ZLM Tour"
+    },
+    {
+      "id": "koln",
+      "name": "Rund um Köln"
+    },
+    {
+      "id": "sweden",
+      "name": "PostNord Tour of Sweden"
+    },
+    {
+      "id": "utah",
+      "name": "Tour of Utah"
+    },
+    {
+      "id": "portugal",
+      "name": "Volta a Portugal"
+    },
+    {
+      "id": "zuri",
+      "name": "Züri-Metzgete"
+    },
+    {
+      "id": "ireland",
+      "name": "Tour of Ireland"
+    },
+    {
+      "id": "colorado",
+      "name": "USA Pro Challenge"
+    },
+    {
+      "id": "brussels",
+      "name": "Brussels Cycling Classic"
+    },
+    {
+      "id": "missouri",
+      "name": "Tour of Missouri"
+    },
+    {
+      "id": "toscana",
+      "name": "Giro della Toscana"
+    },
+    {
+      "id": "lazio",
+      "name": "Giro del Lazio"
+    },
+    {
+      "id": "beijing",
+      "name": "Tour of Beijing"
+    },
+    {
+      "id": "gcamino",
+      "name": "O Gran Camiño"
+    },
+    {
+      "id": "alpesmar",
+      "name": "Tour des Alpes-Maritimes"
+    },
+    {
+      "id": "sicilia",
+      "name": "Giro di Sicilia"
+    },
+    {
+      "id": "sabatini",
+      "name": "Coppa Sabatini"
+    },
+    {
+      "id": "cro",
+      "name": "CRO Race"
+    },
+    {
+      "id": "japancup",
+      "name": "Japan Cup"
+    },
+    {
+      "id": "og-tt",
+      "name": "Olympic Games – Time Trial"
+    },
+    {
+      "id": "og-rr",
+      "name": "Olympic Games – Road Race"
+    }
+  ],
+  "terms": {
+    "uci": "UCI",
+    "worldTour": "WorldTour",
+    "worldTeam": "WorldTeam",
+    "proTeam": "ProTeam",
+    "proSeries": "ProSeries",
+    "olympicGames": "Olympic Games",
+    "olympics": "Olympics",
+    "olympic": "Olympic",
+    "olympian": "Olympian",
+    "cimaCoppi": "Cima Coppi",
+    "cimaCoppiShort": "CC",
+    "cimaAF": "Cima Alberto Fernández"
+  }
+}

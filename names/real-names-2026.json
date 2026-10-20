@@ -1,0 +1,3088 @@
+{
+ "format": "peloton-dynasty-names",
+ "version": 1,
+ "label": "Real names 2026",
+ "teams": [
+  {
+   "id": "T01",
+   "name": "UAE Team Emirates XRG",
+   "abbr": "UAD"
+  },
+  {
+   "id": "T02",
+   "name": "Visma–Lease a Bike",
+   "abbr": "TVL"
+  },
+  {
+   "id": "T03",
+   "name": "Red Bull–BORA–hansgrohe",
+   "abbr": "RBH"
+  },
+  {
+   "id": "T04",
+   "name": "Soudal Quick-Step",
+   "abbr": "SOQ"
+  },
+  {
+   "id": "T05",
+   "name": "Lidl–Trek",
+   "abbr": "LTK"
+  },
+  {
+   "id": "T06",
+   "name": "Netcompany INEOS",
+   "abbr": "INE"
+  },
+  {
+   "id": "T07",
+   "name": "Alpecin–Premier Tech",
+   "abbr": "ADC"
+  },
+  {
+   "id": "T08",
+   "name": "EF Education–EasyPost",
+   "abbr": "EFE"
+  },
+  {
+   "id": "T09",
+   "name": "Decathlon CMA CGM",
+   "abbr": "DCT"
+  },
+  {
+   "id": "T10",
+   "name": "Groupama–FDJ United",
+   "abbr": "GFC"
+  },
+  {
+   "id": "T11",
+   "name": "Lotto–Intermarché",
+   "abbr": "LIN"
+  },
+  {
+   "id": "T12",
+   "name": "Movistar Team",
+   "abbr": "MOV"
+  },
+  {
+   "id": "T13",
+   "name": "Team Bahrain Victorious",
+   "abbr": "TBV"
+  },
+  {
+   "id": "T14",
+   "name": "Team Jayco–AlUla",
+   "abbr": "JAY"
+  },
+  {
+   "id": "T15",
+   "name": "XDS Astana Team",
+   "abbr": "XAT"
+  },
+  {
+   "id": "T16",
+   "name": "Team Picnic–PostNL",
+   "abbr": "TPP"
+  },
+  {
+   "id": "T17",
+   "name": "NSN Cycling Team",
+   "abbr": "NSN"
+  },
+  {
+   "id": "T18",
+   "name": "Uno-X Mobility",
+   "abbr": "UXM"
+  },
+  {
+   "id": "T19",
+   "name": "Tudor Pro Cycling Team",
+   "abbr": "TUD"
+  },
+  {
+   "id": "T20",
+   "name": "Q36.5 Pro Cycling Team",
+   "abbr": "Q36"
+  },
+  {
+   "id": "T21",
+   "name": "Cofidis",
+   "abbr": "COF"
+  },
+  {
+   "id": "T22",
+   "name": "Team TotalEnergies",
+   "abbr": "TEN"
+  },
+  {
+   "id": "T23",
+   "name": "Caja Rural–Seguros RGA",
+   "abbr": "CJR"
+  },
+  {
+   "id": "T24",
+   "name": "Burgos Burpellet BH",
+   "abbr": "BBH"
+  },
+  {
+   "id": "T25",
+   "name": "Euskaltel–Euskadi",
+   "abbr": "EUS"
+  },
+  {
+   "id": "T26",
+   "name": "Equipo Kern Pharma",
+   "abbr": "EKP"
+  },
+  {
+   "id": "T27",
+   "name": "Team Polti VisitMalta",
+   "abbr": "PTV"
+  },
+  {
+   "id": "T28",
+   "name": "VF Group–Bardiani CSF–Faizanè",
+   "abbr": "VBF"
+  },
+  {
+   "id": "T29",
+   "name": "Solution Tech–Vini Fantini",
+   "abbr": "STV"
+  },
+  {
+   "id": "T30",
+   "name": "Team Flanders–Baloise",
+   "abbr": "TFB"
+  },
+  {
+   "id": "T31",
+   "name": "Unibet Rose Rockets",
+   "abbr": "URR"
+  },
+  {
+   "id": "T32",
+   "name": "Modern Adventure Pro Cycling",
+   "abbr": "MAP"
+  },
+  {
+   "id": "T33",
+   "name": "JCL Team UKYO",
+   "abbr": "JCL"
+  },
+  {
+   "id": "T34",
+   "name": "Team Novo Nordisk",
+   "abbr": "TNN"
+  }
+ ],
+ "riders": [
+  {
+   "id": 1,
+   "first": "Tadej",
+   "last": "Pogačar"
+  },
+  {
+   "id": 2,
+   "first": "João",
+   "last": "Almeida"
+  },
+  {
+   "id": 3,
+   "first": "Isaac",
+   "last": "del Toro"
+  },
+  {
+   "id": 4,
+   "first": "Adam",
+   "last": "Yates"
+  },
+  {
+   "id": 5,
+   "first": "Brandon",
+   "last": "McNulty"
+  },
+  {
+   "id": 6,
+   "first": "Jhonatan",
+   "last": "Narváez"
+  },
+  {
+   "id": 7,
+   "first": "Tim",
+   "last": "Wellens"
+  },
+  {
+   "id": 8,
+   "first": "Pavel",
+   "last": "Sivakov"
+  },
+  {
+   "id": 9,
+   "first": "Marc",
+   "last": "Soler"
+  },
+  {
+   "id": 10,
+   "first": "Felix",
+   "last": "Großschartner"
+  },
+  {
+   "id": 11,
+   "first": "Domen",
+   "last": "Novak"
+  },
+  {
+   "id": 12,
+   "first": "Jay",
+   "last": "Vine"
+  },
+  {
+   "id": 13,
+   "first": "Nils",
+   "last": "Politt"
+  },
+  {
+   "id": 14,
+   "first": "Mikkel",
+   "last": "Bjerg"
+  },
+  {
+   "id": 15,
+   "first": "Florian",
+   "last": "Vermeersch"
+  },
+  {
+   "id": 16,
+   "first": "António",
+   "last": "Morgado"
+  },
+  {
+   "id": 17,
+   "first": "Igor",
+   "last": "Arrieta"
+  },
+  {
+   "id": 18,
+   "first": "Jan",
+   "last": "Christen"
+  },
+  {
+   "id": 19,
+   "first": "Filippo",
+   "last": "Baroncini"
+  },
+  {
+   "id": 20,
+   "first": "Rui",
+   "last": "Oliveira"
+  },
+  {
+   "id": 21,
+   "first": "Ivo",
+   "last": "Oliveira"
+  },
+  {
+   "id": 22,
+   "first": "Vegard",
+   "last": "Stake Laengen"
+  },
+  {
+   "id": 23,
+   "first": "Sebastián",
+   "last": "Molano"
+  },
+  {
+   "id": 24,
+   "first": "Benoît",
+   "last": "Cosnefroy"
+  },
+  {
+   "id": 25,
+   "first": "Rune",
+   "last": "Herregodts"
+  },
+  {
+   "id": 26,
+   "first": "Julius",
+   "last": "Johansen"
+  },
+  {
+   "id": 27,
+   "first": "Michael",
+   "last": "Vink"
+  },
+  {
+   "id": 28,
+   "first": "Pablo",
+   "last": "Torres"
+  },
+  {
+   "id": 29,
+   "first": "Adrià",
+   "last": "Pericas"
+  },
+  {
+   "id": 30,
+   "first": "Jonas",
+   "last": "Vingegaard"
+  },
+  {
+   "id": 31,
+   "first": "Wout",
+   "last": "van Aert"
+  },
+  {
+   "id": 32,
+   "first": "Matteo",
+   "last": "Jorgenson"
+  },
+  {
+   "id": 33,
+   "first": "Simon",
+   "last": "Yates"
+  },
+  {
+   "id": 34,
+   "first": "Sepp",
+   "last": "Kuss"
+  },
+  {
+   "id": 35,
+   "first": "Christophe",
+   "last": "Laporte"
+  },
+  {
+   "id": 36,
+   "first": "Edoardo",
+   "last": "Affini"
+  },
+  {
+   "id": 37,
+   "first": "Victor",
+   "last": "Campenaerts"
+  },
+  {
+   "id": 38,
+   "first": "Bart",
+   "last": "Lemmen"
+  },
+  {
+   "id": 39,
+   "first": "Ben",
+   "last": "Tulett"
+  },
+  {
+   "id": 40,
+   "first": "Matthew",
+   "last": "Brennan"
+  },
+  {
+   "id": 41,
+   "first": "Axel",
+   "last": "Zingle"
+  },
+  {
+   "id": 42,
+   "first": "Per",
+   "last": "Strand Hagenes"
+  },
+  {
+   "id": 43,
+   "first": "Cian",
+   "last": "Uijtdebroeks"
+  },
+  {
+   "id": 44,
+   "first": "Tim",
+   "last": "Rex"
+  },
+  {
+   "id": 45,
+   "first": "Davide",
+   "last": "Piganzoli"
+  },
+  {
+   "id": 46,
+   "first": "Wilco",
+   "last": "Kelderman"
+  },
+  {
+   "id": 47,
+   "first": "Thomas",
+   "last": "Gloag"
+  },
+  {
+   "id": 48,
+   "first": "Loe",
+   "last": "van Belle"
+  },
+  {
+   "id": 49,
+   "first": "Niklas",
+   "last": "Behrens"
+  },
+  {
+   "id": 58,
+   "first": "Remco",
+   "last": "Evenepoel"
+  },
+  {
+   "id": 59,
+   "first": "Primož",
+   "last": "Roglič"
+  },
+  {
+   "id": 60,
+   "first": "Florian",
+   "last": "Lipowitz"
+  },
+  {
+   "id": 61,
+   "first": "Jai",
+   "last": "Hindley"
+  },
+  {
+   "id": 62,
+   "first": "Aleksandr",
+   "last": "Vlasov"
+  },
+  {
+   "id": 63,
+   "first": "Daniel",
+   "last": "Martínez"
+  },
+  {
+   "id": 64,
+   "first": "Giulio",
+   "last": "Pellizzari"
+  },
+  {
+   "id": 65,
+   "first": "Jordi",
+   "last": "Meeus"
+  },
+  {
+   "id": 66,
+   "first": "Sam",
+   "last": "Welsford"
+  },
+  {
+   "id": 67,
+   "first": "Danny",
+   "last": "van Poppel"
+  },
+  {
+   "id": 68,
+   "first": "Nico",
+   "last": "Denz"
+  },
+  {
+   "id": 69,
+   "first": "Ryan",
+   "last": "Mullen"
+  },
+  {
+   "id": 70,
+   "first": "Laurence",
+   "last": "Pithie"
+  },
+  {
+   "id": 71,
+   "first": "Gianni",
+   "last": "Moscon"
+  },
+  {
+   "id": 72,
+   "first": "Matteo",
+   "last": "Sobrero"
+  },
+  {
+   "id": 73,
+   "first": "Mick",
+   "last": "van Dijke"
+  },
+  {
+   "id": 74,
+   "first": "Tim",
+   "last": "van Dijke"
+  },
+  {
+   "id": 75,
+   "first": "Roger",
+   "last": "Adrià"
+  },
+  {
+   "id": 76,
+   "first": "Finn",
+   "last": "Fisher-Black"
+  },
+  {
+   "id": 77,
+   "first": "Maxim",
+   "last": "Van Gils"
+  },
+  {
+   "id": 78,
+   "first": "Giovanni",
+   "last": "Aleotti"
+  },
+  {
+   "id": 79,
+   "first": "Gianni",
+   "last": "Vermeersch"
+  },
+  {
+   "id": 80,
+   "first": "Ben",
+   "last": "Zwiehoff"
+  },
+  {
+   "id": 81,
+   "first": "Frederik",
+   "last": "Wandahl"
+  },
+  {
+   "id": 82,
+   "first": "Mattia",
+   "last": "Cattaneo"
+  },
+  {
+   "id": 83,
+   "first": "Jan",
+   "last": "Tratnik"
+  },
+  {
+   "id": 86,
+   "first": "Tim",
+   "last": "Merlier"
+  },
+  {
+   "id": 87,
+   "first": "Paul",
+   "last": "Magnier"
+  },
+  {
+   "id": 88,
+   "first": "Mikel",
+   "last": "Landa"
+  },
+  {
+   "id": 89,
+   "first": "Ilan",
+   "last": "Van Wilder"
+  },
+  {
+   "id": 90,
+   "first": "Valentin",
+   "last": "Paret-Peintre"
+  },
+  {
+   "id": 91,
+   "first": "Jasper",
+   "last": "Stuyven"
+  },
+  {
+   "id": 92,
+   "first": "Yves",
+   "last": "Lampaert"
+  },
+  {
+   "id": 93,
+   "first": "Dylan",
+   "last": "van Baarle"
+  },
+  {
+   "id": 94,
+   "first": "Bert",
+   "last": "Van Lerberghe"
+  },
+  {
+   "id": 95,
+   "first": "Dries",
+   "last": "Van Gestel"
+  },
+  {
+   "id": 96,
+   "first": "Louis",
+   "last": "Vervaeke"
+  },
+  {
+   "id": 97,
+   "first": "James",
+   "last": "Knox"
+  },
+  {
+   "id": 98,
+   "first": "Mauri",
+   "last": "Vansevenant"
+  },
+  {
+   "id": 99,
+   "first": "Gianmarco",
+   "last": "Garofoli"
+  },
+  {
+   "id": 100,
+   "first": "Warre",
+   "last": "Vangheluwe"
+  },
+  {
+   "id": 101,
+   "first": "Josef",
+   "last": "Černý"
+  },
+  {
+   "id": 102,
+   "first": "Max",
+   "last": "Schachmann"
+  },
+  {
+   "id": 103,
+   "first": "Pascal",
+   "last": "Eenkhoorn"
+  },
+  {
+   "id": 104,
+   "first": "Gil",
+   "last": "Gelders"
+  },
+  {
+   "id": 105,
+   "first": "Martin",
+   "last": "Svrček"
+  },
+  {
+   "id": 114,
+   "first": "Mads",
+   "last": "Pedersen"
+  },
+  {
+   "id": 115,
+   "first": "Jonathan",
+   "last": "Milan"
+  },
+  {
+   "id": 116,
+   "first": "Juan",
+   "last": "Ayuso"
+  },
+  {
+   "id": 117,
+   "first": "Giulio",
+   "last": "Ciccone"
+  },
+  {
+   "id": 118,
+   "first": "Mattias",
+   "last": "Skjelmose"
+  },
+  {
+   "id": 119,
+   "first": "Derek",
+   "last": "Gee"
+  },
+  {
+   "id": 120,
+   "first": "Tao",
+   "last": "Geoghegan Hart"
+  },
+  {
+   "id": 121,
+   "first": "Thibau",
+   "last": "Nys"
+  },
+  {
+   "id": 122,
+   "first": "Toms",
+   "last": "Skujiņš"
+  },
+  {
+   "id": 123,
+   "first": "Edward",
+   "last": "Theuns"
+  },
+  {
+   "id": 124,
+   "first": "Simone",
+   "last": "Consonni"
+  },
+  {
+   "id": 125,
+   "first": "Daan",
+   "last": "Hoole"
+  },
+  {
+   "id": 126,
+   "first": "Mathias",
+   "last": "Vacek"
+  },
+  {
+   "id": 127,
+   "first": "Tim",
+   "last": "Teutenberg"
+  },
+  {
+   "id": 128,
+   "first": "Søren",
+   "last": "Kragh Andersen"
+  },
+  {
+   "id": 129,
+   "first": "Quinn",
+   "last": "Simmons"
+  },
+  {
+   "id": 130,
+   "first": "Lennard",
+   "last": "Kämna"
+  },
+  {
+   "id": 131,
+   "first": "Carlos",
+   "last": "Verona"
+  },
+  {
+   "id": 132,
+   "first": "Patrick",
+   "last": "Konrad"
+  },
+  {
+   "id": 133,
+   "first": "Amanuel",
+   "last": "Ghebreigzabhier"
+  },
+  {
+   "id": 134,
+   "first": "Natnael",
+   "last": "Tesfatsion"
+  },
+  {
+   "id": 135,
+   "first": "Jakob",
+   "last": "Söderqvist"
+  },
+  {
+   "id": 136,
+   "first": "Andrea",
+   "last": "Bagioli"
+  },
+  {
+   "id": 137,
+   "first": "Albert",
+   "last": "Withen Philipsen"
+  },
+  {
+   "id": 138,
+   "first": "Julien",
+   "last": "Bernard"
+  },
+  {
+   "id": 139,
+   "first": "Jacopo",
+   "last": "Mosca"
+  },
+  {
+   "id": 140,
+   "first": "Sam",
+   "last": "Oomen"
+  },
+  {
+   "id": 141,
+   "first": "Otto",
+   "last": "Vergaerde"
+  },
+  {
+   "id": 142,
+   "first": "Egan",
+   "last": "Bernal"
+  },
+  {
+   "id": 143,
+   "first": "Carlos",
+   "last": "Rodríguez"
+  },
+  {
+   "id": 144,
+   "first": "Thymen",
+   "last": "Arensman"
+  },
+  {
+   "id": 145,
+   "first": "Oscar",
+   "last": "Onley"
+  },
+  {
+   "id": 146,
+   "first": "Kevin",
+   "last": "Vauquelin"
+  },
+  {
+   "id": 147,
+   "first": "Filippo",
+   "last": "Ganna"
+  },
+  {
+   "id": 148,
+   "first": "Joshua",
+   "last": "Tarling"
+  },
+  {
+   "id": 149,
+   "first": "Magnus",
+   "last": "Sheffield"
+  },
+  {
+   "id": 150,
+   "first": "Dorian",
+   "last": "Godon"
+  },
+  {
+   "id": 151,
+   "first": "Axel",
+   "last": "Laurance"
+  },
+  {
+   "id": 152,
+   "first": "Ben",
+   "last": "Turner"
+  },
+  {
+   "id": 153,
+   "first": "Michał",
+   "last": "Kwiatkowski"
+  },
+  {
+   "id": 154,
+   "first": "Laurens",
+   "last": "De Plus"
+  },
+  {
+   "id": 155,
+   "first": "Tobias",
+   "last": "Foss"
+  },
+  {
+   "id": 156,
+   "first": "Lucas",
+   "last": "Hamilton"
+  },
+  {
+   "id": 157,
+   "first": "Bob",
+   "last": "Jungels"
+  },
+  {
+   "id": 158,
+   "first": "Sam",
+   "last": "Watson"
+  },
+  {
+   "id": 159,
+   "first": "Connor",
+   "last": "Swift"
+  },
+  {
+   "id": 160,
+   "first": "Kim",
+   "last": "Heiduk"
+  },
+  {
+   "id": 161,
+   "first": "Brandon",
+   "last": "Rivera"
+  },
+  {
+   "id": 162,
+   "first": "Embret",
+   "last": "Svestad-Bårdseng"
+  },
+  {
+   "id": 163,
+   "first": "Artem",
+   "last": "Shmidt"
+  },
+  {
+   "id": 164,
+   "first": "Ben",
+   "last": "Swift"
+  },
+  {
+   "id": 165,
+   "first": "AJ",
+   "last": "August"
+  },
+  {
+   "id": 170,
+   "first": "Mathieu",
+   "last": "van der Poel"
+  },
+  {
+   "id": 171,
+   "first": "Jasper",
+   "last": "Philipsen"
+  },
+  {
+   "id": 172,
+   "first": "Kaden",
+   "last": "Groves"
+  },
+  {
+   "id": 173,
+   "first": "Silvan",
+   "last": "Dillier"
+  },
+  {
+   "id": 174,
+   "first": "Jonas",
+   "last": "Rickaert"
+  },
+  {
+   "id": 175,
+   "first": "Edward",
+   "last": "Planckaert"
+  },
+  {
+   "id": 176,
+   "first": "Xandro",
+   "last": "Meurisse"
+  },
+  {
+   "id": 177,
+   "first": "Quinten",
+   "last": "Hermans"
+  },
+  {
+   "id": 178,
+   "first": "Tibor",
+   "last": "Del Grosso"
+  },
+  {
+   "id": 179,
+   "first": "Emiel",
+   "last": "Verstrynge"
+  },
+  {
+   "id": 180,
+   "first": "Jensen",
+   "last": "Plowright"
+  },
+  {
+   "id": 181,
+   "first": "Oscar",
+   "last": "Riesebeek"
+  },
+  {
+   "id": 182,
+   "first": "Robbe",
+   "last": "Ghys"
+  },
+  {
+   "id": 183,
+   "first": "Timo",
+   "last": "Kielich"
+  },
+  {
+   "id": 184,
+   "first": "Michael",
+   "last": "Gogl"
+  },
+  {
+   "id": 185,
+   "first": "Juri",
+   "last": "Hollmann"
+  },
+  {
+   "id": 186,
+   "first": "Samuel",
+   "last": "Gaze"
+  },
+  {
+   "id": 187,
+   "first": "Luca",
+   "last": "Vergallito"
+  },
+  {
+   "id": 188,
+   "first": "Francesco",
+   "last": "Busatto"
+  },
+  {
+   "id": 189,
+   "first": "Simon",
+   "last": "Dehairs"
+  },
+  {
+   "id": 198,
+   "first": "Richard",
+   "last": "Carapaz"
+  },
+  {
+   "id": 199,
+   "first": "Ben",
+   "last": "Healy"
+  },
+  {
+   "id": 200,
+   "first": "Neilson",
+   "last": "Powless"
+  },
+  {
+   "id": 201,
+   "first": "Kasper",
+   "last": "Asgreen"
+  },
+  {
+   "id": 202,
+   "first": "Marijn",
+   "last": "van den Berg"
+  },
+  {
+   "id": 203,
+   "first": "Harry",
+   "last": "Sweeny"
+  },
+  {
+   "id": 204,
+   "first": "Archie",
+   "last": "Ryan"
+  },
+  {
+   "id": 205,
+   "first": "Sean",
+   "last": "Quinn"
+  },
+  {
+   "id": 206,
+   "first": "Darren",
+   "last": "Rafferty"
+  },
+  {
+   "id": 207,
+   "first": "Simon",
+   "last": "Carr"
+  },
+  {
+   "id": 208,
+   "first": "Alex",
+   "last": "Baudin"
+  },
+  {
+   "id": 209,
+   "first": "Lukas",
+   "last": "Nerurkar"
+  },
+  {
+   "id": 210,
+   "first": "James",
+   "last": "Shaw"
+  },
+  {
+   "id": 211,
+   "first": "Samuele",
+   "last": "Battistella"
+  },
+  {
+   "id": 212,
+   "first": "Mikkel",
+   "last": "Frølich Honoré"
+  },
+  {
+   "id": 213,
+   "first": "Vincenzo",
+   "last": "Albanese"
+  },
+  {
+   "id": 214,
+   "first": "Georg",
+   "last": "Steinhauser"
+  },
+  {
+   "id": 215,
+   "first": "Madis",
+   "last": "Mihkels"
+  },
+  {
+   "id": 216,
+   "first": "Andrea",
+   "last": "Piccolo"
+  },
+  {
+   "id": 217,
+   "first": "Kyle",
+   "last": "Murphy"
+  },
+  {
+   "id": 218,
+   "first": "Colby",
+   "last": "Simmons"
+  },
+  {
+   "id": 226,
+   "first": "Felix",
+   "last": "Gall"
+  },
+  {
+   "id": 227,
+   "first": "Olav",
+   "last": "Kooij"
+  },
+  {
+   "id": 228,
+   "first": "Paul",
+   "last": "Seixas"
+  },
+  {
+   "id": 229,
+   "first": "Tiesj",
+   "last": "Benoot"
+  },
+  {
+   "id": 230,
+   "first": "Paul",
+   "last": "Lapeira"
+  },
+  {
+   "id": 231,
+   "first": "Tobias",
+   "last": "Lund Andresen"
+  },
+  {
+   "id": 232,
+   "first": "Sam",
+   "last": "Bennett"
+  },
+  {
+   "id": 233,
+   "first": "Bruno",
+   "last": "Armirail"
+  },
+  {
+   "id": 234,
+   "first": "Aurélien",
+   "last": "Paret-Peintre"
+  },
+  {
+   "id": 235,
+   "first": "Stefan",
+   "last": "Bissegger"
+  },
+  {
+   "id": 236,
+   "first": "Stan",
+   "last": "Dewulf"
+  },
+  {
+   "id": 237,
+   "first": "Oliver",
+   "last": "Naesen"
+  },
+  {
+   "id": 238,
+   "first": "Callum",
+   "last": "Scotson"
+  },
+  {
+   "id": 239,
+   "first": "Andrea",
+   "last": "Vendrame"
+  },
+  {
+   "id": 240,
+   "first": "Clément",
+   "last": "Berthet"
+  },
+  {
+   "id": 241,
+   "first": "Nicolas",
+   "last": "Prodhomme"
+  },
+  {
+   "id": 242,
+   "first": "Léo",
+   "last": "Bisiaux"
+  },
+  {
+   "id": 243,
+   "first": "Johannes",
+   "last": "Staune-Mittet"
+  },
+  {
+   "id": 244,
+   "first": "Rasmus",
+   "last": "Søjberg Pedersen"
+  },
+  {
+   "id": 245,
+   "first": "Tord",
+   "last": "Gudmestad"
+  },
+  {
+   "id": 254,
+   "first": "David",
+   "last": "Gaudu"
+  },
+  {
+   "id": 255,
+   "first": "Romain",
+   "last": "Grégoire"
+  },
+  {
+   "id": 256,
+   "first": "Guillaume",
+   "last": "Martin"
+  },
+  {
+   "id": 257,
+   "first": "Valentin",
+   "last": "Madouas"
+  },
+  {
+   "id": 258,
+   "first": "Quentin",
+   "last": "Pacher"
+  },
+  {
+   "id": 259,
+   "first": "Rémi",
+   "last": "Cavagna"
+  },
+  {
+   "id": 260,
+   "first": "Kevin",
+   "last": "Geniets"
+  },
+  {
+   "id": 261,
+   "first": "Paul",
+   "last": "Penhoët"
+  },
+  {
+   "id": 262,
+   "first": "Clément",
+   "last": "Russo"
+  },
+  {
+   "id": 263,
+   "first": "Rudy",
+   "last": "Molard"
+  },
+  {
+   "id": 264,
+   "first": "Lewis",
+   "last": "Askey"
+  },
+  {
+   "id": 265,
+   "first": "Brieuc",
+   "last": "Rolland"
+  },
+  {
+   "id": 266,
+   "first": "Lorenzo",
+   "last": "Germani"
+  },
+  {
+   "id": 267,
+   "first": "Enzo",
+   "last": "Paleni"
+  },
+  {
+   "id": 268,
+   "first": "Cyril",
+   "last": "Barthe"
+  },
+  {
+   "id": 269,
+   "first": "Thibaud",
+   "last": "Gruel"
+  },
+  {
+   "id": 282,
+   "first": "Arnaud",
+   "last": "De Lie"
+  },
+  {
+   "id": 283,
+   "first": "Lennert",
+   "last": "Van Eetvelt"
+  },
+  {
+   "id": 284,
+   "first": "Gerben",
+   "last": "Thijssen"
+  },
+  {
+   "id": 285,
+   "first": "Laurenz",
+   "last": "Rex"
+  },
+  {
+   "id": 286,
+   "first": "Brent",
+   "last": "Van Moer"
+  },
+  {
+   "id": 287,
+   "first": "Georg",
+   "last": "Zimmermann"
+  },
+  {
+   "id": 288,
+   "first": "Lorenzo",
+   "last": "Rota"
+  },
+  {
+   "id": 289,
+   "first": "Louis",
+   "last": "Barré"
+  },
+  {
+   "id": 290,
+   "first": "Hugo",
+   "last": "Page"
+  },
+  {
+   "id": 291,
+   "first": "Jasper",
+   "last": "De Buyst"
+  },
+  {
+   "id": 292,
+   "first": "Jarrad",
+   "last": "Drizners"
+  },
+  {
+   "id": 293,
+   "first": "Liam",
+   "last": "Slock"
+  },
+  {
+   "id": 294,
+   "first": "Milan",
+   "last": "Menten"
+  },
+  {
+   "id": 295,
+   "first": "Sébastien",
+   "last": "Grignard"
+  },
+  {
+   "id": 296,
+   "first": "Simone",
+   "last": "Petilli"
+  },
+  {
+   "id": 297,
+   "first": "Vito",
+   "last": "Braet"
+  },
+  {
+   "id": 298,
+   "first": "Arjen",
+   "last": "Livyns"
+  },
+  {
+   "id": 299,
+   "first": "Cedric",
+   "last": "Beullens"
+  },
+  {
+   "id": 300,
+   "first": "Kobe",
+   "last": "Goossens"
+  },
+  {
+   "id": 301,
+   "first": "Eduardo",
+   "last": "Sepúlveda"
+  },
+  {
+   "id": 310,
+   "first": "Enric",
+   "last": "Mas"
+  },
+  {
+   "id": 311,
+   "first": "Javier",
+   "last": "Romo"
+  },
+  {
+   "id": 312,
+   "first": "Pablo",
+   "last": "Castrillo"
+  },
+  {
+   "id": 313,
+   "first": "Einer",
+   "last": "Rubio"
+  },
+  {
+   "id": 314,
+   "first": "Iván",
+   "last": "García Cortina"
+  },
+  {
+   "id": 315,
+   "first": "Orluis",
+   "last": "Aular"
+  },
+  {
+   "id": 316,
+   "first": "Iván",
+   "last": "Romeo"
+  },
+  {
+   "id": 317,
+   "first": "Pelayo",
+   "last": "Sánchez"
+  },
+  {
+   "id": 318,
+   "first": "Gregor",
+   "last": "Mühlberger"
+  },
+  {
+   "id": 319,
+   "first": "Nelson",
+   "last": "Oliveira"
+  },
+  {
+   "id": 320,
+   "first": "Jorge",
+   "last": "Arcas"
+  },
+  {
+   "id": 321,
+   "first": "Lorenzo",
+   "last": "Milesi"
+  },
+  {
+   "id": 322,
+   "first": "Davide",
+   "last": "Formolo"
+  },
+  {
+   "id": 323,
+   "first": "Raúl",
+   "last": "García Pierna"
+  },
+  {
+   "id": 324,
+   "first": "Will",
+   "last": "Barta"
+  },
+  {
+   "id": 325,
+   "first": "Carlos",
+   "last": "Canal"
+  },
+  {
+   "id": 326,
+   "first": "Michel",
+   "last": "Hessmann"
+  },
+  {
+   "id": 338,
+   "first": "Antonio",
+   "last": "Tiberi"
+  },
+  {
+   "id": 339,
+   "first": "Lenny",
+   "last": "Martinez"
+  },
+  {
+   "id": 340,
+   "first": "Santiago",
+   "last": "Buitrago"
+  },
+  {
+   "id": 341,
+   "first": "Damiano",
+   "last": "Caruso"
+  },
+  {
+   "id": 342,
+   "first": "Matej",
+   "last": "Mohorič"
+  },
+  {
+   "id": 343,
+   "first": "Alec",
+   "last": "Segaert"
+  },
+  {
+   "id": 344,
+   "first": "Phil",
+   "last": "Bauhaus"
+  },
+  {
+   "id": 345,
+   "first": "Torstein",
+   "last": "Træen"
+  },
+  {
+   "id": 346,
+   "first": "Fred",
+   "last": "Wright"
+  },
+  {
+   "id": 347,
+   "first": "Jack",
+   "last": "Haig"
+  },
+  {
+   "id": 348,
+   "first": "Kamil",
+   "last": "Gradek"
+  },
+  {
+   "id": 349,
+   "first": "Nikias",
+   "last": "Arndt"
+  },
+  {
+   "id": 350,
+   "first": "Afonso",
+   "last": "Eulálio"
+  },
+  {
+   "id": 351,
+   "first": "Edoardo",
+   "last": "Zambanini"
+  },
+  {
+   "id": 352,
+   "first": "Andrea",
+   "last": "Pasqualon"
+  },
+  {
+   "id": 353,
+   "first": "Rainer",
+   "last": "Kepplinger"
+  },
+  {
+   "id": 354,
+   "first": "Robert",
+   "last": "Stannard"
+  },
+  {
+   "id": 355,
+   "first": "Finlay",
+   "last": "Pickering"
+  },
+  {
+   "id": 356,
+   "first": "Mathijs",
+   "last": "Paasschens"
+  },
+  {
+   "id": 357,
+   "first": "Matevž",
+   "last": "Govekar"
+  },
+  {
+   "id": 366,
+   "first": "Ben",
+   "last": "O'Connor"
+  },
+  {
+   "id": 367,
+   "first": "Michael",
+   "last": "Matthews"
+  },
+  {
+   "id": 368,
+   "first": "Luke",
+   "last": "Plapp"
+  },
+  {
+   "id": 369,
+   "first": "Mauro",
+   "last": "Schmid"
+  },
+  {
+   "id": 370,
+   "first": "Eddie",
+   "last": "Dunbar"
+  },
+  {
+   "id": 371,
+   "first": "Pascal",
+   "last": "Ackermann"
+  },
+  {
+   "id": 372,
+   "first": "Filippo",
+   "last": "Zana"
+  },
+  {
+   "id": 373,
+   "first": "Chris",
+   "last": "Harper"
+  },
+  {
+   "id": 374,
+   "first": "Luka",
+   "last": "Mezgec"
+  },
+  {
+   "id": 375,
+   "first": "Felix",
+   "last": "Engelhardt"
+  },
+  {
+   "id": 376,
+   "first": "Koen",
+   "last": "Bouwman"
+  },
+  {
+   "id": 377,
+   "first": "Kelland",
+   "last": "O'Brien"
+  },
+  {
+   "id": 378,
+   "first": "Max",
+   "last": "Walscheid"
+  },
+  {
+   "id": 379,
+   "first": "Anders",
+   "last": "Foldager"
+  },
+  {
+   "id": 380,
+   "first": "Alan",
+   "last": "Hatherly"
+  },
+  {
+   "id": 381,
+   "first": "Elmar",
+   "last": "Reinders"
+  },
+  {
+   "id": 382,
+   "first": "Lukas",
+   "last": "Pöstlberger"
+  },
+  {
+   "id": 383,
+   "first": "Patrick",
+   "last": "Gamper"
+  },
+  {
+   "id": 394,
+   "first": "Christian",
+   "last": "Scaroni"
+  },
+  {
+   "id": 395,
+   "first": "Sergio",
+   "last": "Higuita"
+  },
+  {
+   "id": 396,
+   "first": "Diego",
+   "last": "Ulissi"
+  },
+  {
+   "id": 397,
+   "first": "Alberto",
+   "last": "Bettiol"
+  },
+  {
+   "id": 398,
+   "first": "Lorenzo",
+   "last": "Fortunato"
+  },
+  {
+   "id": 399,
+   "first": "Harold",
+   "last": "Tejada"
+  },
+  {
+   "id": 400,
+   "first": "Wout",
+   "last": "Poels"
+  },
+  {
+   "id": 401,
+   "first": "Clément",
+   "last": "Champoussin"
+  },
+  {
+   "id": 402,
+   "first": "Mike",
+   "last": "Teunissen"
+  },
+  {
+   "id": 403,
+   "first": "Davide",
+   "last": "Ballerini"
+  },
+  {
+   "id": 404,
+   "first": "Matteo",
+   "last": "Malucelli"
+  },
+  {
+   "id": 405,
+   "first": "Simone",
+   "last": "Velasco"
+  },
+  {
+   "id": 406,
+   "first": "Max",
+   "last": "Kanter"
+  },
+  {
+   "id": 407,
+   "first": "Fausto",
+   "last": "Masnada"
+  },
+  {
+   "id": 408,
+   "first": "Yevgeniy",
+   "last": "Fedorov"
+  },
+  {
+   "id": 409,
+   "first": "Gleb",
+   "last": "Syritsa"
+  },
+  {
+   "id": 410,
+   "first": "Ide",
+   "last": "Schelling"
+  },
+  {
+   "id": 411,
+   "first": "Nicola",
+   "last": "Conci"
+  },
+  {
+   "id": 412,
+   "first": "Aleksandr",
+   "last": "Riabushenko"
+  },
+  {
+   "id": 413,
+   "first": "Nicolás",
+   "last": "Vinokurov"
+  },
+  {
+   "id": 414,
+   "first": "Guillermo Thomas",
+   "last": "Silva"
+  },
+  {
+   "id": 422,
+   "first": "Max",
+   "last": "Poole"
+  },
+  {
+   "id": 423,
+   "first": "Fabio",
+   "last": "Jakobsen"
+  },
+  {
+   "id": 424,
+   "first": "Pavel",
+   "last": "Bittner"
+  },
+  {
+   "id": 425,
+   "first": "Casper",
+   "last": "van Uden"
+  },
+  {
+   "id": 426,
+   "first": "Frank",
+   "last": "van den Broek"
+  },
+  {
+   "id": 427,
+   "first": "Warren",
+   "last": "Barguil"
+  },
+  {
+   "id": 428,
+   "first": "Kevin",
+   "last": "Vermaerke"
+  },
+  {
+   "id": 429,
+   "first": "John",
+   "last": "Degenkolb"
+  },
+  {
+   "id": 430,
+   "first": "Nils",
+   "last": "Eekhoff"
+  },
+  {
+   "id": 431,
+   "first": "Chris",
+   "last": "Hamilton"
+  },
+  {
+   "id": 432,
+   "first": "Julius",
+   "last": "van den Berg"
+  },
+  {
+   "id": 433,
+   "first": "Bram",
+   "last": "Welten"
+  },
+  {
+   "id": 434,
+   "first": "Niklas",
+   "last": "Märkl"
+  },
+  {
+   "id": 435,
+   "first": "Timo",
+   "last": "Roosen"
+  },
+  {
+   "id": 436,
+   "first": "Sean",
+   "last": "Flynn"
+  },
+  {
+   "id": 437,
+   "first": "Tim",
+   "last": "Naberman"
+  },
+  {
+   "id": 438,
+   "first": "Matthew",
+   "last": "Dinham"
+  },
+  {
+   "id": 439,
+   "first": "Patrick",
+   "last": "Eddy"
+  },
+  {
+   "id": 440,
+   "first": "Enzo",
+   "last": "Leijnse"
+  },
+  {
+   "id": 450,
+   "first": "Biniam",
+   "last": "Girmay"
+  },
+  {
+   "id": 451,
+   "first": "Corbin",
+   "last": "Strong"
+  },
+  {
+   "id": 452,
+   "first": "Jake",
+   "last": "Stewart"
+  },
+  {
+   "id": 453,
+   "first": "Ethan",
+   "last": "Vernon"
+  },
+  {
+   "id": 454,
+   "first": "Matthew",
+   "last": "Riccitello"
+  },
+  {
+   "id": 455,
+   "first": "Joseph",
+   "last": "Blackmore"
+  },
+  {
+   "id": 456,
+   "first": "Alexey",
+   "last": "Lutsenko"
+  },
+  {
+   "id": 457,
+   "first": "Marco",
+   "last": "Frigo"
+  },
+  {
+   "id": 458,
+   "first": "Stephen",
+   "last": "Williams"
+  },
+  {
+   "id": 459,
+   "first": "Hugo",
+   "last": "Houle"
+  },
+  {
+   "id": 460,
+   "first": "Krists",
+   "last": "Neilands"
+  },
+  {
+   "id": 461,
+   "first": "Jan",
+   "last": "Hirt"
+  },
+  {
+   "id": 462,
+   "first": "Nick",
+   "last": "Schultz"
+  },
+  {
+   "id": 463,
+   "first": "George",
+   "last": "Bennett"
+  },
+  {
+   "id": 464,
+   "first": "Hugo",
+   "last": "Hofstetter"
+  },
+  {
+   "id": 465,
+   "first": "Tom",
+   "last": "Van Asbroeck"
+  },
+  {
+   "id": 478,
+   "first": "Tobias",
+   "last": "Halland Johannessen"
+  },
+  {
+   "id": 479,
+   "first": "Søren",
+   "last": "Wærenskjold"
+  },
+  {
+   "id": 480,
+   "first": "Magnus",
+   "last": "Cort"
+  },
+  {
+   "id": 481,
+   "first": "Jonas",
+   "last": "Abrahamsen"
+  },
+  {
+   "id": 482,
+   "first": "Rasmus",
+   "last": "Tiller"
+  },
+  {
+   "id": 483,
+   "first": "Andreas",
+   "last": "Leknessund"
+  },
+  {
+   "id": 484,
+   "first": "Andreas",
+   "last": "Kron"
+  },
+  {
+   "id": 485,
+   "first": "Anders",
+   "last": "Halland Johannessen"
+  },
+  {
+   "id": 486,
+   "first": "Johannes",
+   "last": "Kulset"
+  },
+  {
+   "id": 487,
+   "first": "Fredrik",
+   "last": "Dversnes"
+  },
+  {
+   "id": 488,
+   "first": "Stian",
+   "last": "Fredheim"
+  },
+  {
+   "id": 489,
+   "first": "Erlend",
+   "last": "Blikra"
+  },
+  {
+   "id": 490,
+   "first": "Markus",
+   "last": "Hoelgaard"
+  },
+  {
+   "id": 491,
+   "first": "Jonas",
+   "last": "Iversby Hvideberg"
+  },
+  {
+   "id": 492,
+   "first": "Martin",
+   "last": "Tjøtta"
+  },
+  {
+   "id": 493,
+   "first": "Anthon",
+   "last": "Charmig"
+  },
+  {
+   "id": 494,
+   "first": "Morten",
+   "last": "Hulgaard"
+  },
+  {
+   "id": 506,
+   "first": "Marc",
+   "last": "Hirschi"
+  },
+  {
+   "id": 507,
+   "first": "Julian",
+   "last": "Alaphilippe"
+  },
+  {
+   "id": 508,
+   "first": "Stefan",
+   "last": "Küng"
+  },
+  {
+   "id": 509,
+   "first": "Michael",
+   "last": "Storer"
+  },
+  {
+   "id": 510,
+   "first": "Alberto",
+   "last": "Dainese"
+  },
+  {
+   "id": 511,
+   "first": "Arvid",
+   "last": "de Kleijn"
+  },
+  {
+   "id": 512,
+   "first": "Matteo",
+   "last": "Trentin"
+  },
+  {
+   "id": 513,
+   "first": "Rick",
+   "last": "Pluimers"
+  },
+  {
+   "id": 514,
+   "first": "Mathys",
+   "last": "Rondel"
+  },
+  {
+   "id": 515,
+   "first": "Marius",
+   "last": "Mayrhofer"
+  },
+  {
+   "id": 516,
+   "first": "Luca",
+   "last": "Mozzato"
+  },
+  {
+   "id": 517,
+   "first": "Marco",
+   "last": "Haller"
+  },
+  {
+   "id": 518,
+   "first": "Fabio",
+   "last": "Christen"
+  },
+  {
+   "id": 519,
+   "first": "Yannis",
+   "last": "Voisard"
+  },
+  {
+   "id": 520,
+   "first": "Fabian",
+   "last": "Lienhard"
+  },
+  {
+   "id": 521,
+   "first": "Florian",
+   "last": "Stork"
+  },
+  {
+   "id": 522,
+   "first": "Larry",
+   "last": "Warbasse"
+  },
+  {
+   "id": 523,
+   "first": "Maikel",
+   "last": "Zijlaard"
+  },
+  {
+   "id": 524,
+   "first": "Sébastien",
+   "last": "Reichenbach"
+  },
+  {
+   "id": 525,
+   "first": "Hannes",
+   "last": "Wilksch"
+  },
+  {
+   "id": 526,
+   "first": "Robin",
+   "last": "Froidevaux"
+  },
+  {
+   "id": 527,
+   "first": "Petr",
+   "last": "Kelemen"
+  },
+  {
+   "id": 528,
+   "first": "Simon",
+   "last": "Pellaud"
+  },
+  {
+   "id": 530,
+   "first": "Tom",
+   "last": "Pidcock"
+  },
+  {
+   "id": 531,
+   "first": "Matteo",
+   "last": "Moschetti"
+  },
+  {
+   "id": 532,
+   "first": "Walter",
+   "last": "Calzoni"
+  },
+  {
+   "id": 533,
+   "first": "Damien",
+   "last": "Howson"
+  },
+  {
+   "id": 534,
+   "first": "Nickolas",
+   "last": "Zukowsky"
+  },
+  {
+   "id": 535,
+   "first": "Emīls",
+   "last": "Liepiņš"
+  },
+  {
+   "id": 536,
+   "first": "Mark",
+   "last": "Donovan"
+  },
+  {
+   "id": 537,
+   "first": "Antonio",
+   "last": "Puppio"
+  },
+  {
+   "id": 538,
+   "first": "Xabier Mikel",
+   "last": "Azparren"
+  },
+  {
+   "id": 539,
+   "first": "Sjoerd",
+   "last": "Bax"
+  },
+  {
+   "id": 540,
+   "first": "Nicolò",
+   "last": "Parisini"
+  },
+  {
+   "id": 554,
+   "first": "Benjamin",
+   "last": "Thomas"
+  },
+  {
+   "id": 555,
+   "first": "Bryan",
+   "last": "Coquard"
+  },
+  {
+   "id": 556,
+   "first": "Ion",
+   "last": "Izagirre"
+  },
+  {
+   "id": 557,
+   "first": "Emanuel",
+   "last": "Buchmann"
+  },
+  {
+   "id": 558,
+   "first": "Alex",
+   "last": "Aranburu"
+  },
+  {
+   "id": 559,
+   "first": "Dylan",
+   "last": "Teuns"
+  },
+  {
+   "id": 560,
+   "first": "Victor",
+   "last": "Lafay"
+  },
+  {
+   "id": 561,
+   "first": "Jesús",
+   "last": "Herrada"
+  },
+  {
+   "id": 562,
+   "first": "Milan",
+   "last": "Fretin"
+  },
+  {
+   "id": 563,
+   "first": "Alexis",
+   "last": "Renard"
+  },
+  {
+   "id": 564,
+   "first": "Damien",
+   "last": "Touzé"
+  },
+  {
+   "id": 565,
+   "first": "Rémy",
+   "last": "Rochas"
+  },
+  {
+   "id": 566,
+   "first": "Sergio",
+   "last": "Samitier"
+  },
+  {
+   "id": 567,
+   "first": "Piet",
+   "last": "Allegaert"
+  },
+  {
+   "id": 568,
+   "first": "Anthony",
+   "last": "Perez"
+  },
+  {
+   "id": 569,
+   "first": "Pierre-Luc",
+   "last": "Périchon"
+  },
+  {
+   "id": 578,
+   "first": "Jordan",
+   "last": "Jegat"
+  },
+  {
+   "id": 579,
+   "first": "Anthony",
+   "last": "Turgis"
+  },
+  {
+   "id": 580,
+   "first": "Steff",
+   "last": "Cras"
+  },
+  {
+   "id": 581,
+   "first": "Mathieu",
+   "last": "Burgaudeau"
+  },
+  {
+   "id": 582,
+   "first": "Emilien",
+   "last": "Jeannière"
+  },
+  {
+   "id": 583,
+   "first": "Thomas",
+   "last": "Gachignard"
+  },
+  {
+   "id": 584,
+   "first": "Pierre",
+   "last": "Latour"
+  },
+  {
+   "id": 585,
+   "first": "Sandy",
+   "last": "Dujardin"
+  },
+  {
+   "id": 586,
+   "first": "Fabien",
+   "last": "Grellier"
+  },
+  {
+   "id": 587,
+   "first": "Paul",
+   "last": "Ourselin"
+  },
+  {
+   "id": 588,
+   "first": "Mattéo",
+   "last": "Vercher"
+  },
+  {
+   "id": 589,
+   "first": "Alan",
+   "last": "Jousseaume"
+  },
+  {
+   "id": 590,
+   "first": "Joris",
+   "last": "Delbove"
+  },
+  {
+   "id": 591,
+   "first": "Thomas",
+   "last": "Bonnet"
+  },
+  {
+   "id": 602,
+   "first": "Abel",
+   "last": "Balderstone"
+  },
+  {
+   "id": 603,
+   "first": "Fernando",
+   "last": "Barceló"
+  },
+  {
+   "id": 604,
+   "first": "Joel",
+   "last": "Nicolau"
+  },
+  {
+   "id": 605,
+   "first": "Jon",
+   "last": "Barrenetxea"
+  },
+  {
+   "id": 606,
+   "first": "Jokin",
+   "last": "Murguialday"
+  },
+  {
+   "id": 607,
+   "first": "Alex",
+   "last": "Molenaar"
+  },
+  {
+   "id": 626,
+   "first": "Ander",
+   "last": "Okamika"
+  },
+  {
+   "id": 650,
+   "first": "Gotzon",
+   "last": "Martín"
+  },
+  {
+   "id": 651,
+   "first": "Mikel",
+   "last": "Bizkarra"
+  },
+  {
+   "id": 652,
+   "first": "Xabier",
+   "last": "Isasa"
+  },
+  {
+   "id": 653,
+   "first": "Txomin",
+   "last": "Juaristi"
+  },
+  {
+   "id": 674,
+   "first": "Urko",
+   "last": "Berrade"
+  },
+  {
+   "id": 698,
+   "first": "Giovanni",
+   "last": "Lonardi"
+  },
+  {
+   "id": 699,
+   "first": "Mirco",
+   "last": "Maestri"
+  },
+  {
+   "id": 700,
+   "first": "Alessandro",
+   "last": "Fancellu"
+  },
+  {
+   "id": 701,
+   "first": "Andrea",
+   "last": "Pietrobon"
+  },
+  {
+   "id": 702,
+   "first": "Thomas",
+   "last": "Pesenti"
+  },
+  {
+   "id": 722,
+   "first": "Alessandro",
+   "last": "Pinarello"
+  },
+  {
+   "id": 723,
+   "first": "Enrico",
+   "last": "Zanoncello"
+  },
+  {
+   "id": 724,
+   "first": "Luca",
+   "last": "Paletti"
+  },
+  {
+   "id": 725,
+   "first": "Martin",
+   "last": "Marcellusi"
+  },
+  {
+   "id": 726,
+   "first": "Manuele",
+   "last": "Tarozzi"
+  },
+  {
+   "id": 727,
+   "first": "Filippo",
+   "last": "Turconi"
+  },
+  {
+   "id": 794,
+   "first": "Dylan",
+   "last": "Groenewegen"
+  }
+ ],
+ "brands": [
+  {
+   "id": "B01",
+   "name": "Colnago"
+  },
+  {
+   "id": "B02",
+   "name": "Cervélo"
+  },
+  {
+   "id": "B03",
+   "name": "Specialized"
+  },
+  {
+   "id": "B04",
+   "name": "Trek"
+  },
+  {
+   "id": "B05",
+   "name": "Pinarello"
+  },
+  {
+   "id": "B06",
+   "name": "Canyon"
+  },
+  {
+   "id": "B07",
+   "name": "Cannondale"
+  },
+  {
+   "id": "B08",
+   "name": "Van Rysel"
+  },
+  {
+   "id": "B09",
+   "name": "Wilier"
+  },
+  {
+   "id": "B10",
+   "name": "Orbea"
+  },
+  {
+   "id": "B11",
+   "name": "Merida"
+  },
+  {
+   "id": "B12",
+   "name": "Giant"
+  },
+  {
+   "id": "B13",
+   "name": "XDS"
+  },
+  {
+   "id": "B14",
+   "name": "Lapierre"
+  },
+  {
+   "id": "B15",
+   "name": "Factor"
+  },
+  {
+   "id": "B16",
+   "name": "Dare"
+  },
+  {
+   "id": "B17",
+   "name": "BMC"
+  },
+  {
+   "id": "B18",
+   "name": "Scott"
+  },
+  {
+   "id": "B19",
+   "name": "Look"
+  },
+  {
+   "id": "B20",
+   "name": "Enve"
+  },
+  {
+   "id": "B21",
+   "name": "BH"
+  },
+  {
+   "id": "B22",
+   "name": "Ridley"
+  },
+  {
+   "id": "B23",
+   "name": "Bianchi"
+  },
+  {
+   "id": "B24",
+   "name": "Cube"
+  },
+  {
+   "id": "B25",
+   "name": "MMR"
+  },
+  {
+   "id": "B26",
+   "name": "Cipollini"
+  },
+  {
+   "id": "B27",
+   "name": "Guerciotti"
+  },
+  {
+   "id": "B28",
+   "name": "Argon 18"
+  },
+  {
+   "id": "G01",
+   "name": "Shimano"
+  },
+  {
+   "id": "G02",
+   "name": "SRAM"
+  },
+  {
+   "id": "G03",
+   "name": "Campagnolo"
+  }
+ ],
+ "races": [
+  {
+   "id": "tdu",
+   "name": "Santos Tour Down Under"
+  },
+  {
+   "id": "cvv",
+   "name": "Clàssica Comunitat Valenciana 1969"
+  },
+  {
+   "id": "calvia",
+   "name": "Trofeo Calvià"
+  },
+  {
+   "id": "cadel",
+   "name": "Cadel Evans Great Ocean Road Race"
+  },
+  {
+   "id": "marseillaise",
+   "name": "Grand Prix La Marseillaise"
+  },
+  {
+   "id": "besseges",
+   "name": "Étoile de Bessèges"
+  },
+  {
+   "id": "valenciana",
+   "name": "Volta a la Comunitat Valenciana"
+  },
+  {
+   "id": "almeria",
+   "name": "Clásica de Almería"
+  },
+  {
+   "id": "uaetour",
+   "name": "UAE Tour"
+  },
+  {
+   "id": "algarve",
+   "name": "Volta ao Algarve"
+  },
+  {
+   "id": "andalucia",
+   "name": "Vuelta a Andalucía Ruta del Sol"
+  },
+  {
+   "id": "ardeche",
+   "name": "Faun-Ardèche Classic"
+  },
+  {
+   "id": "omloop",
+   "name": "Omloop Nieuwsblad"
+  },
+  {
+   "id": "kbk",
+   "name": "Kuurne–Brussel–Kuurne"
+  },
+  {
+   "id": "samyn",
+   "name": "Le Samyn"
+  },
+  {
+   "id": "laigueglia",
+   "name": "Trofeo Laigueglia"
+  },
+  {
+   "id": "strade",
+   "name": "Strade Bianche"
+  },
+  {
+   "id": "parisnice",
+   "name": "Paris–Nice"
+  },
+  {
+   "id": "tirreno",
+   "name": "Tirreno–Adriatico"
+  },
+  {
+   "id": "milanotorino",
+   "name": "Milano–Torino"
+  },
+  {
+   "id": "nokere",
+   "name": "Nokere Koerse"
+  },
+  {
+   "id": "bredene",
+   "name": "Bredene Koksijde Classic"
+  },
+  {
+   "id": "msr",
+   "name": "Milano–Sanremo"
+  },
+  {
+   "id": "catalunya",
+   "name": "Volta Ciclista a Catalunya"
+  },
+  {
+   "id": "coppi",
+   "name": "Settimana Coppi e Bartali"
+  },
+  {
+   "id": "bdp",
+   "name": "Classic Brugge–De Panne"
+  },
+  {
+   "id": "e3",
+   "name": "E3 Saxo Classic"
+  },
+  {
+   "id": "gw",
+   "name": "In Flanders Fields – Gent–Wevelgem"
+  },
+  {
+   "id": "ddv",
+   "name": "Dwars door Vlaanderen"
+  },
+  {
+   "id": "indurain",
+   "name": "Gran Premio Miguel Induráin"
+  },
+  {
+   "id": "rvv",
+   "name": "Ronde van Vlaanderen"
+  },
+  {
+   "id": "itzulia",
+   "name": "Itzulia Basque Country"
+  },
+  {
+   "id": "loire",
+   "name": "Région Pays de la Loire Tour"
+  },
+  {
+   "id": "scheldeprijs",
+   "name": "Scheldeprijs"
+  },
+  {
+   "id": "pr",
+   "name": "Paris–Roubaix"
+  },
+  {
+   "id": "brabantse",
+   "name": "De Brabantse Pijl"
+  },
+  {
+   "id": "amstel",
+   "name": "Amstel Gold Race"
+  },
+  {
+   "id": "turkey",
+   "name": "Tour of Türkiye"
+  },
+  {
+   "id": "alps",
+   "name": "Tour of the Alps"
+  },
+  {
+   "id": "fleche",
+   "name": "La Flèche Wallonne"
+  },
+  {
+   "id": "lbl",
+   "name": "Liège–Bastogne–Liège"
+  },
+  {
+   "id": "romandie",
+   "name": "Tour de Romandie"
+  },
+  {
+   "id": "eschborn",
+   "name": "Eschborn–Frankfurt"
+  },
+  {
+   "id": "giro",
+   "name": "Giro d'Italia",
+   "short": "Giro"
+  },
+  {
+   "id": "hongrie",
+   "name": "Tour de Hongrie"
+  },
+  {
+   "id": "norway",
+   "name": "Tour of Norway"
+  },
+  {
+   "id": "mayenne",
+   "name": "Boucles de la Mayenne"
+  },
+  {
+   "id": "aura",
+   "name": "Tour Auvergne-Rhône-Alpes"
+  },
+  {
+   "id": "slovenia",
+   "name": "Tour of Slovenia"
+  },
+  {
+   "id": "belgium",
+   "name": "Baloise Belgium Tour"
+  },
+  {
+   "id": "suisse",
+   "name": "Tour de Suisse"
+  },
+  {
+   "id": "cph",
+   "name": "Copenhagen Sprint"
+  },
+  {
+   "id": "tour",
+   "name": "Tour de France",
+   "short": "Tour"
+  },
+  {
+   "id": "austria",
+   "name": "Tour of Austria"
+  },
+  {
+   "id": "wallonie",
+   "name": "Tour de Wallonie"
+  },
+  {
+   "id": "dss",
+   "name": "Clásica San Sebastián"
+  },
+  {
+   "id": "pologne",
+   "name": "Tour de Pologne"
+  },
+  {
+   "id": "burgos",
+   "name": "Vuelta a Burgos"
+  },
+  {
+   "id": "arctic",
+   "name": "Arctic Race of Norway"
+  },
+  {
+   "id": "denmark",
+   "name": "Tour of Denmark"
+  },
+  {
+   "id": "limousin",
+   "name": "Tour du Limousin"
+  },
+  {
+   "id": "renewi",
+   "name": "Renewi Tour"
+  },
+  {
+   "id": "deutschland",
+   "name": "Deutschland Tour"
+  },
+  {
+   "id": "vuelta",
+   "name": "La Vuelta Ciclista a España",
+   "short": "Vuelta"
+  },
+  {
+   "id": "hamburg",
+   "name": "Hamburg Cyclassics"
+  },
+  {
+   "id": "plouay",
+   "name": "Bretagne Classic"
+  },
+  {
+   "id": "britain",
+   "name": "Tour of Britain"
+  },
+  {
+   "id": "maryland",
+   "name": "Maryland Cycling Classic"
+  },
+  {
+   "id": "quebec",
+   "name": "Grand Prix Cycliste de Québec"
+  },
+  {
+   "id": "montreal",
+   "name": "Grand Prix Cycliste de Montréal"
+  },
+  {
+   "id": "luxembourg",
+   "name": "Tour of Luxembourg"
+  },
+  {
+   "id": "primus",
+   "name": "Primus Classic"
+  },
+  {
+   "id": "emilia",
+   "name": "Giro dell'Emilia"
+  },
+  {
+   "id": "bernocchi",
+   "name": "Coppa Bernocchi"
+  },
+  {
+   "id": "trevalli",
+   "name": "Tre Valli Varesine"
+  },
+  {
+   "id": "piemonte",
+   "name": "Gran Piemonte"
+  },
+  {
+   "id": "lombardia",
+   "name": "Il Lombardia"
+  },
+  {
+   "id": "paristours",
+   "name": "Paris–Tours"
+  },
+  {
+   "id": "binche",
+   "name": "Binche–Chimay–Binche"
+  },
+  {
+   "id": "guangxi",
+   "name": "Gree-Tour of Guangxi"
+  },
+  {
+   "id": "veneto",
+   "name": "Veneto Classic"
+  },
+  {
+   "id": "herald",
+   "name": "Herald Sun Tour"
+  },
+  {
+   "id": "colombia",
+   "name": "Tour Colombia"
+  },
+  {
+   "id": "med",
+   "name": "Tour Méditerranéen"
+  },
+  {
+   "id": "murcia",
+   "name": "Clásica de Murcia"
+  },
+  {
+   "id": "hautvar",
+   "name": "Tour du Haut Var"
+  },
+  {
+   "id": "criterium",
+   "name": "Critérium International"
+  },
+  {
+   "id": "camembert",
+   "name": "Paris–Camembert"
+  },
+  {
+   "id": "georgia",
+   "name": "Tour de Georgia"
+  },
+  {
+   "id": "yorkshire",
+   "name": "Tour de Yorkshire"
+  },
+  {
+   "id": "asturias",
+   "name": "Vuelta a Asturias"
+  },
+  {
+   "id": "peace",
+   "name": "Peace Race"
+  },
+  {
+   "id": "california",
+   "name": "Tour of California"
+  },
+  {
+   "id": "midilibre",
+   "name": "Grand Prix du Midi Libre"
+  },
+  {
+   "id": "philly",
+   "name": "Philadelphia Cycling Classic"
+  },
+  {
+   "id": "zlm",
+   "name": "ZLM Tour"
+  },
+  {
+   "id": "koln",
+   "name": "Rund um Köln"
+  },
+  {
+   "id": "sweden",
+   "name": "PostNord Tour of Sweden"
+  },
+  {
+   "id": "utah",
+   "name": "Tour of Utah"
+  },
+  {
+   "id": "portugal",
+   "name": "Volta a Portugal"
+  },
+  {
+   "id": "zuri",
+   "name": "Züri-Metzgete"
+  },
+  {
+   "id": "ireland",
+   "name": "Tour of Ireland"
+  },
+  {
+   "id": "colorado",
+   "name": "USA Pro Challenge"
+  },
+  {
+   "id": "brussels",
+   "name": "Brussels Cycling Classic"
+  },
+  {
+   "id": "missouri",
+   "name": "Tour of Missouri"
+  },
+  {
+   "id": "toscana",
+   "name": "Giro della Toscana"
+  },
+  {
+   "id": "lazio",
+   "name": "Giro del Lazio"
+  },
+  {
+   "id": "beijing",
+   "name": "Tour of Beijing"
+  },
+  {
+   "id": "gcamino",
+   "name": "O Gran Camiño"
+  },
+  {
+   "id": "alpesmar",
+   "name": "Tour des Alpes-Maritimes"
+  },
+  {
+   "id": "sicilia",
+   "name": "Giro di Sicilia"
+  },
+  {
+   "id": "sabatini",
+   "name": "Coppa Sabatini"
+  },
+  {
+   "id": "cro",
+   "name": "CRO Race"
+  },
+  {
+   "id": "japancup",
+   "name": "Japan Cup"
+  },
+  {
+   "id": "og-tt",
+   "name": "Olympic Games – Time Trial"
+  },
+  {
+   "id": "og-rr",
+   "name": "Olympic Games – Road Race"
+  }
+ ],
+ "terms": {
+  "uci": "UCI",
+  "worldTour": "WorldTour",
+  "worldTeam": "WorldTeam",
+  "proTeam": "ProTeam",
+  "proSeries": "ProSeries",
+  "olympicGames": "Olympic Games",
+  "olympics": "Olympics",
+  "olympic": "Olympic",
+  "olympian": "Olympian",
+  "cimaCoppi": "Cima Coppi",
+  "cimaCoppiShort": "CC",
+  "cimaAF": "Cima Alberto Fernández"
+ }
+}
